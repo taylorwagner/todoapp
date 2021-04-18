@@ -1,0 +1,19 @@
+body {
+	background-color: blue;
+}
+
+h1 {
+	text-align: center;
+}
+
+#do-list {
+	color: white;
+}
+
+.cross {
+	background-color: lightBlue;
+}
+
+.done {
+	background-color: red;
+}
